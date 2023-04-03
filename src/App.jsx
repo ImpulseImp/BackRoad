@@ -5,7 +5,7 @@ import About from './components/About';
 import Services from './components/Services';
 import Toures from './components/Toures';
 import Footer from './components/Footer';
-import Title from './components/Title';
+
 function App() {
   return (
     <>
